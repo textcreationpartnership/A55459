@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popish hunt after the Protestant plot, or, The Blood-hounds at full cry together with a dialogue between Nat. Implement and one of the Jesuites in Newgate, about broaching more shams, especially that of young Tong's pretended recantation, and his charging the contrivance of his subornation upon the Presbyterians : with some animadversions upon the adventure of the turkey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55459</idno>
+            <idno type="STC">Wing P2951</idno>
+            <idno type="STC">ESTC R31937</idno>
+            <idno type="EEBO-CITATION">12277046</idno>
+            <idno type="OCLC">ocm 12277046</idno>
+            <idno type="VID">58477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58477)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1511:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popish hunt after the Protestant plot, or, The Blood-hounds at full cry together with a dialogue between Nat. Implement and one of the Jesuites in Newgate, about broaching more shams, especially that of young Tong's pretended recantation, and his charging the contrivance of his subornation upon the Presbyterians : with some animadversions upon the adventure of the turkey.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Leigh,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:58477:1"/>
+            <pb facs="tcp:58477:1" rendition="simple:additions"/>
+            <head>THE Popiſh HUNT AFTER THE Proteſtant Plot. OR, The Blood-Hounds at Full Cry.</head>
+            <argument>
+               <p>TOGETHER WITH A Dialogue between <hi>Nat. Implement</hi> and one of the Jeſuites in <hi>Newgate,</hi> about broaching more Shams; eſpecially that of Young <hi>Tong</hi>'s pre<g ref="char:EOLhyphen"/>tended Recantation, and his charging the Con<g ref="char:EOLhyphen"/>trivance of his Subornation upon the Presby<g ref="char:EOLhyphen"/>terians.</p>
+               <p>
+                  <hi>With ſome Animadverſions upon the Adventure of the Turkey.</hi>
+               </p>
+            </argument>
+            <stage>SCENE, the <hi>Preſs-Yard.</hi> Enter <hi>Jeſuite.</hi>
+            </stage>
+            <sp>
+               <speaker>Jeſuite.</speaker>
+               <p>SO Ho, So Ho: Stop there, the Proteſtant Plot has got the Start on us; <hi>Haloo Towzer,</hi> Run <hi>Turkey-Stealer;</hi> There, there <hi>Tantive,</hi> turn her on that ſide, for if once ſhe gets clear of us, we ſhall have the Popiſh Plot brought the ſecond time to the Stake, and Baited worſe than ever; now 'tis no time to dally, my Maſters, for if we cool upon it, we ſhall looſe the Scent, and never have the like Opportunity; The Popes Credit muſt be re-gained, and the Popiſh Plot obliterated, if poſſible; the Mur<g ref="char:EOLhyphen"/>ther of that Shadow of a Knight, Sir E.B.G. that makes ſuch a noiſe in the World, muſt be Cancell'd, either by turning it upon the Whigs, or laying it at his own Door, nay, any thing muſt be done to rub off the Dirt that has beſpatter'd true Popiſh Catholicks. —There there, <hi>Towzer</hi> follows her cloſe at the Heels, So ho, So ho, Haloo Joler, Looſe Looſe I ſay the <hi>Iriſh</hi> Blood-Hounds, they have her already in the Wind, and there's a fair Courſe for it; There, there, ſo, now they are after her at Full-Cry, O what a pleaſing Harmony they make: Now Whigs, where are you now? the Game's our own, if our Hounds don't baulk it; Haloo King-tail, Haloo Bob-tail, There,—There,— There, now, paſt doubt, they have her, and we ſhall bath our hands in the Quarry: O, the Whigs, the Whigs, D— me, the Whigs are all in ſuſpence already; O, it makes me Laugh to ſee how ſimply they look,— but ſtay, I hear a noiſe, ſome one is entring, and I muſt be ſilent, leſt I break the Cockatrice Egg e're the Serpent is Hat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht.</p>
+            </sp>
+            <pb n="2" facs="tcp:58477:2" rendition="simple:additions"/>
+            <stage>Enters <hi>Nat. Implement.</hi>
+            </stage>
+            <sp>
+               <speaker>Jeſuit.</speaker>
+               <p>Ha, my Sight deceives me, or 'tis our Sworn Drudge, at his Holineſſes Croſs Keys.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>You are in the right on't Father, 'tis he, the very ſame you mention'd, the man, That to advance the Catholick Cauſe, and regain the Credit of his Holineſs, would pawn his Soul to the Devil at any rate, Nay, rather than the Whigs ſhould domineer, or by bringing me into a ſecond Boyiſh Plot to make me lie Wind-bound in the <hi>Gate-Houſe</hi> another couple of Months, to leſſen their Credits, I'le thrice a Week ſo bemaul e'm with egregious Lies, ſo beſpatter e'm with Scan<g ref="char:EOLhyphen"/>dals and Reproaches of your Coyning, That not one of them ſhall dare peep out of his Hutch, for fear of being hooted at.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>O let me imbrace thee, now I am confirmed thou art one of the Popes truſty Janizaries, a fellow ſo fit for our purpoſe, as if thou hadſt been made to no other end; but Prethee what buſineſs brought thee hither ſo ſoon this morning?</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>D — me Sir,</hi> Can you be Ignorant of my buſineſs? By St. <hi>Coleman,</hi> I was in good hopes you had been provided for me; why, I want two or three Paragraphs of Shams or Railery, to fill up my In<g ref="char:EOLhyphen"/>telligence, for by St. <hi>Whitebread</hi> News grows ſo ſcant that I ſhall not be otherwiſe able to Publiſh it above once a Week, unleſs you wou'd have me ſtuff it with rediculous ſtories of inchanted Crows, for the <hi>Whiggs</hi> to ſnicker at.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Well <hi>Nat.</hi> By the Popes Toe, thou art a lucky Dog; for, as to the buſineſs you now mention, you could never have come in a better time, nay, thou art a fortunate Cur, for thou haſt nick'd the critical Moment; for I and my <hi>Ignatian</hi> Companions have been laying our Heads together theſe two days, for a miſchie<g ref="char:EOLhyphen"/>vous Invention, and at laſt, by the aſſiſtance of your old Friend the Midwife, we have given it Birth; the which we had ſcarce effected, e're ſome of us were of the Opinion that <hi>Towzer</hi> was the fitteſt fellow to Father it; but upon recollecting our Memories, we found he had a By-blow, much of the ſame nature, laid at his Door about a twelve Month ſince, which cauſed his Juſt-aſs-ſhip to take a Progreſs into <hi>Scotland,</hi> whereupon we reſolved, leaſt it ſhould be thought to be his, by its being ſo like him, we then did not think it amiſs, to ſend it our Son <hi>Heraclitus;</hi> but when we conſidered what a drunken Dog he is, we concluded, that the wiſer ſort would imagine it proceeded from the ſtupifying fumes of a drunken Debauchee; therefore <hi>Nat.</hi> ſince thou art ſo luckily arrived, no man but your ſelf ſhall have the ho<g ref="char:EOLhyphen"/>nour of ſending it abroad into the World.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>By his Holineſs,</hi> I ſhall ever think my ſelf obliged to thank you for your good Opinion of me, but pray Father, what may it im<g ref="char:EOLhyphen"/>port? for, by St. <hi>Ignatius,</hi> my Ears Itch to hear it.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>O 'tis the ſubtilleſt Invention that ever we contrived, could you inſinuate it into the eaſy Multitude, you'd do the Pope far better ſervice than when you Printed his Catechiſms, and Mother <hi>Celliers</hi> Narrative, though I muſt confeſs they were both advantagious to the Catholick Cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Well, By the <hi>Croſs Keys</hi> that hang up at my Door, I am impa<g ref="char:EOLhyphen"/>tient to hear it, for be it what it will, unſight or unſeen I'le print and publiſh it, though it coſt me another jaunt hither, to take up my Lodging for good and all, for I have been ſo ſeaſoned in Goals, that I dread nothing on this ſide Treaſon, no nor that neither, ſince (if it ſhould be my Fate to be hanged tomorrow, as I know not how ſoon it may happen) I am aſſured of his Holineſs's free Pardon.</p>
+            </sp>
+            <pb n="3" facs="tcp:58477:2"/>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Thou art a brave fellow <hi>Nat.</hi> O that we had a hundred ſuch Implements, how we wou'd make Jack <hi>Presbyter</hi> look about him; well, as ſure as <hi>Coleman</hi> is ſainted (which I think none but Hereticks dare queſtion) thou ſhalt have the honour of Printing all the Libels our Invention can give life to, to aſperſe the Goverment, and turn the Plot upon the Proteſtants, for that has been our aim ever ſince we came hither, and our ſtudy has been bent upon nothing elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Thanks ghoſtly Father; by Father <hi>Evans</hi>'s Soul, your promiſes over-load me with kindneſs; but pray, as to the preſent buſineſs, for I ſhall think every moment an hour till I have peruſed it.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Here take it, 'tis already put into a Method, and ſuch a one as nothing but the production of Jeſuitical Brains can parallel.</p>
+            </sp>
+            <stage>[Nat. <hi>Reads.</hi>]</stage>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>How's this? young <hi>Tonge</hi> Recant and be ſorry for what he ſo ſollemnly Swore before the King and Council, in relation to his being ſubborned by <hi>Towzer,</hi> to caſt the contrivance of the Popiſh Plot upon his Father and Dr. <hi>O.</hi> By the <hi>Barkſhire</hi> Crow that ſits prating in the Holly-buſh, over the Butter Firkins of Gold and Silver, this is miſchief's Maſter-piece; I marry Sir, this will do or the Devils in it!</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Well, and don't you ſee how we have made the <hi>Whiggs</hi> the Contrivers of his Impeaching his Father? and how, when they ſaw he bogled at it, and could not carry it through ſtich, they left him in a ſtone Dublet, and would not ſo much as regard him? and far<g ref="char:EOLhyphen"/>ther, how we have inſinuated, how advantagious it would have been to the good Old Cauſe had it ſucceeded.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Aye, and that he has confeſſed their Roguery, and is become a great Penitent.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Yes, yes, and farther, that he expects no Favour nor Reward; that will make it ſlip down the eaſier, for it is time to do ſomething to perſwade people there is a Proteſtant Plot.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>And is this true?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>True, <hi>A Pox upon Truth,</hi> ſhe has ſpoiled a Plot that was 17 years a contriving, why can you imagine to enter into pay on our ſide, and have a Guinny a week Penſion money, if your Conſcience is ſo ſtraight, that you cannot ſwallow a dozen Lyes for Breakfaſt, nay Oaths, if you were put to it.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>My Conſcience ſtraight? why, I have not been troubled with any ſuch thing as Conſcience theſe 9 years, therefore you need not fear that, but to put you out of doubt, true or falſe I'le print it.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Why man, tis the ſecond part of the Proteſtant Plot, and as I remember, you were a main Inſtrument in promoting the firſt, by herding your ſelf among the Boys, that were to have made the In<g ref="char:EOLhyphen"/>ſurrection; under pretence of burning the Rump, for which your little acquaintance made you cool your Heels in the Gate-houſe a conſide<g ref="char:EOLhyphen"/>rable ſeaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Right Sir, but I think I was pretty even with him, if Railery could do it.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>We loſt a brave hit on't, that bout.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Faith ſo we did, I am ſure I ſhould have been a Captain at leaſt had it ſucceeded, but whats paſt cannot be recall'd.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Well, as it was, you were no loſer by the bargain, for I doubt not but the over-plus of the Guinnys that were ſent you to Treat the Youngſters at the Tavern and Ale-houſe, defrayed your Gate-Houſe
+<pb n="4" facs="tcp:58477:3"/>and <hi>Newgate</hi> Charges, and brought you off a winner.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>No more of that, Sir, as you love me, for the remembrance of it terrifies me worſe than the thoughts of a Pillory, or having a caſt of Eſquire <hi>Catches</hi> Office beſtowed upon me: harp no more on that ſtring, good Father, but when you ſhall underſtand how pollitickly I'le manage this new Sham, I hope you'l both forget and forgive that fatal Over-ſight.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Dear Son, we have done that already, and all that we now can wiſh is, That we could ſtay to ſee the Effects this works in the over-credulous.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Stay,— By <hi>Coleman</hi>'s Ghoſt, I hope you don't intend to leave me in the Lurch.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>VVe would not willingly, but it cannot be help'd, for we have it confirm'd by ſome of our old Friends (that lurk about the Town to inform us which way the VVind blows,) that we muſt ſhortly pack up our Awls for the <hi>Scilly</hi> Iſlands.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Nay, then I am undone; O, what ſhall I do for Sham-Inven<g ref="char:EOLhyphen"/>tions to furniſh my Intelligence; nay, I muſt e'n lay it down and cry <hi>p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccavi,</hi> or the Whigs, being Ten to One too hard for me, will by their continual Diſcovery of my little Rogueries, render me more ridiculous than ever: Indeed, I heard ſomething of this yeſter<g ref="char:EOLhyphen"/>day, but could not believe a word of it.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>'Tis too true, but be of good Comfort <hi>Nat.</hi> for we have been ſo Provident, as to provide enough before hand to ſerve you for a Month at leaſt, and by that time we ſhall be ſetled in our new Quar<g ref="char:EOLhyphen"/>ters, and then expect to hear from us every Poſt.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>This revives me, but pray does Madam <hi>Cellier</hi> bear you Com<g ref="char:EOLhyphen"/>pany?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>No, no, ſhe muſt not as yet leave her Old Landlord.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>That's well.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>'Tis ſo, for we have given her Order to aſſiſt you in your weekly buſineſs, as much as in her lies, and to let you Father all the Shams ſhe can invent.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Nay, then I doubt not but I ſhall be able to make ſome Shot againſt my Enemies, for I know ſhe's a Plaguy Jade at Invention.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Hold, nor a word more, I ſee a Whig about to enter, and if he ſhould over-hear us, all our Sport is ſpoiled, farewell at this time, and remember what you have to do, and let me ſee you next Friday at Confeſſion, and then we'l Diſcourſe about other matter.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>I ſhall be all Obedience, and now I think on't. I could not have ſtaid much longer, if no interruption had happened<g ref="char:punc">▪</g> leſt our Turkey ſhould be over roaſted.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>What Turkey?</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>One that we found Straying from an Inn, near <hi>Charter-Houſe</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and out of a Provident Care, leſt ſhe ſhould be loſt, took her up, and clapping her under my Cloak, ſtifled her, and brought her into <hi>Smithfield</hi> to be dreſt, where two of your Sons expect my Re<g ref="char:EOLhyphen"/>turn, and will grow impatient at my ſtay: Farewell Father.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Farewel, Son, the Popes and my Bleſſing attend you; be active impromoting the Cauſe, and as that proſpe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s expect your Advance<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>Doubt not my Diligence, but now time calls away. — Once more, dear Sir, farewell.</p>
+            </sp>
+            <stage>[Exit <hi>Nat.</hi>]</stage>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for Charles Leigh<g ref="char:punc">▪</g> 
+               <hi>1682.</hi>
+            </p>
+            <pb facs="tcp:58477:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
